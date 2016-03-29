@@ -1,0 +1,19 @@
+{
+  "name": "dz1",
+  "version": "1.0.0",
+  "description": "dz1",
+  "main": "advanced.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com\paulkotov\NodeJS"
+  },
+  "author": "Paul Kotov",
+  "license": "ISC"
+}
