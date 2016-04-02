@@ -1,8 +1,8 @@
 {
-  "name": "dz1",
+  "name": "http.js",
   "version": "1.0.0",
-  "description": "dz1",
-  "main": "advanced.js",
+  "description": "evenodd",
+  "main": "evenodd.js",
   "dependencies": {
     "colors": "^1.1.2"
   },
@@ -12,8 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com\paulkotov\NodeJS"
+    "url": "github.com/paulkotov/node/evenodd.js"
   },
-  "author": "Paul Kotov",
+  "author": "paulkotov",
   "license": "ISC"
 }
