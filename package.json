@@ -1,19 +1,21 @@
 {
-  "name": "http.js",
+  "name": "node",
   "version": "1.0.0",
-  "description": "evenodd",
-  "main": "evenodd.js",
+  "description": "",
+  "main": "express.js",
   "dependencies": {
-    "colors": "^1.1.2"
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "consolidate": "^0.14.0",
+    "colors": "^1.1.2",
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5",
+    "request": "^2.69.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/paulkotov/node/evenodd.js"
-  },
-  "author": "paulkotov",
+  "author": "",
   "license": "ISC"
 }
